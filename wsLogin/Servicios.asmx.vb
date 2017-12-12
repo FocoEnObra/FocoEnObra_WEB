@@ -17,7 +17,7 @@ Public Class Service1
     <WebMethod()>
     Public Function Login(vUsuario As String, vPassword As String, vStrConexion As String, ip As String, host As String) As UsuarioSistema
         Dim vUser As UsuarioSistema = Nothing
-
+        'comentario mjeldres
         Try
             vUser = Usuario.Ingresar(vUsuario, vPassword, vStrConexion, ip, host)
         Catch sqlEx As SqlException
