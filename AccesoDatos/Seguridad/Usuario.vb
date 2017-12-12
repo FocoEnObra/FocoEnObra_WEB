@@ -5,7 +5,7 @@ Imports EL.Seguridad
 
 Namespace Seguridad
     Public Class Usuario
-
+        ' cargado de git
         Public Shared Function Ingresar(vUsuario As String, vPassword As String, vStrConexion As String,
                                         ip As String, host As String) As UsuarioSistema
             Dim vCon As New Conexion(vStrConexion)
