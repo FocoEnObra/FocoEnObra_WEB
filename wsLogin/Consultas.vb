@@ -3,7 +3,7 @@ Imports System.Net
 
 Public Class Consultas
 
-    ' probandogit 
+    ' probandogit ewqewqeqw
     Private adap As SqlDataAdapter
     Private comand As SqlCommand
 
