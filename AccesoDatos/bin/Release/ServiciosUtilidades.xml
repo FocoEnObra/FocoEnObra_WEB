@@ -1,0 +1,224 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ServiciosUtilidades
+</name>
+</assembly>
+<members>
+<member name="T:SUL.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:SUL.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:SUL.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="M:SUL.Conexion.#ctor(System.String)">
+ <summary>
+ Constructor de la conexion.
+ </summary>
+ <param name="vStringConexion">Puede proveer un string de conexion util solo para éste objeto de conexion.</param>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Conexion.Exec(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Int32)">
+ <summary>
+ Ejecuta un sp 
+ </summary>
+ <param name="vProcAlmacenado"></param>
+ <param name="vParaMetros"></param>
+ <param name="vTimeoutConexion"></param>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Conexion.ExecSPOut(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},System.Collections.Generic.Dictionary{System.String,System.Data.SqlDbType},System.Data.DataTable,System.Int32)">
+ <summary>
+ Ejecuta un sp que contiene parametros OUTPUT
+ </summary>
+ <param name="vProcAlmacenado">nombre sp</param>
+ <param name="vParaMetrosIn">parametros de entrada</param>
+ <param name="vParaMetrosOut">parametros de salida</param>
+ <param name="result">datatable donde se almacenaran los resultados de tabla</param>
+ <param name="vTimeoutConexion">tiempo maximo de ejecucion</param>
+ <returns>coleccion de parametros</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Converter.EpochToDateTime(System.Int32)">
+ <summary>
+ Converts Unix's epoch time to VB DateTime value
+ </summary>
+ <param name="EpochValue">Epoch time (seconds)</param>
+ <returns>VB Date</returns>
+ <remarks>http://windevblog.blogspot.com/2008/09/epoch-time-in-vbnet.html</remarks>
+</member>
+<member name="M:SUL.Converter.DateTimeToEpoch(System.DateTime)">
+ <summary>
+ Converts VB DateTime value to Unix's epoch time
+ </summary>
+ <param name="DateTimeValue">DateTime to convert</param>
+ <returns>Epoch time (seconds)</returns>
+ <remarks>http://windevblog.blogspot.com/2008/09/epoch-time-in-vbnet.html</remarks>
+</member>
+<member name="M:SUL.Encriptacion.SHA256Hash(System.String)">
+ <summary>
+ Encripta una cadena utilizando el algoritmo SHA256 (Secure Hash Algorithm)
+ </summary>
+ <param name="Data">Un string conteniendo los datos a encriptar.</param>
+ <returns>Un string conteniendo al string de entrada, encriptado con el algoritmo SHA256.</returns>
+ <remarks>Detalles: http://www.itl.nist.gov/fipspubs/fip180-1.htm</remarks>
+</member>
+<member name="M:SUL.Encriptacion.SHA384Hash(System.String)">
+ <summary>
+ Encripta una cadena utilizando el algoritmo SHA256 (Secure Hash Algorithm)
+ </summary>
+ <param name="Data">Un string conteniendo los datos a encriptar.</param>
+ <returns>Un string conteniendo al string de entrada, encriptado con el algoritmo SHA384.</returns>
+ <remarks>Detalles: http://www.itl.nist.gov/fipspubs/fip180-1.htm</remarks>
+</member>
+<member name="M:SUL.Encriptacion.SHA512Hash(System.String)">
+ <summary>
+ Encripta una cadena utilizando el algoritmo SHA256 (Secure Hash Algorithm)
+ </summary>
+ <param name="Data">Un string conteniendo los datos a encriptar.</param>
+ <returns>Un string conteniendo al string de entrada, encriptado con el algoritmo SHA512.</returns>
+ <remarks>Detalles: http://www.itl.nist.gov/fipspubs/fip180-1.htm</remarks>
+</member>
+<member name="M:SUL.Encriptacion.MD5Hash(System.String)">
+ <summary>
+ Encripta una cadena de texto usando el algoritmo de encriptacion de hash MD5.
+ el "Message Digest" es una encriptacion de 128-bit y es usado comunmente para
+ verificar datos chequeando el "Checksum MD5"
+ </summary>
+ <param name="Data">cadena conteniendo el string a hashear a MD5.</param>
+ <returns>Una cadena de texto conteniendo en forma encriptada la cadena ingresada.</returns>
+ <remarks>mas informacion en: http://www.faqs.org/rfcs/rfc1321.html</remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.Simplificar(System.Nullable{System.Double},System.Int32)">
+ <summary>
+ Simplifica un valor según el coeficiente indicado
+ </summary>
+ <param name="valor">valor a dividir</param>
+ <param name="coeficiente">coeficiente por el que se dividira.</param>
+ <returns>Valor simplificado</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.Simplificar(System.Object,System.Int32,System.String,System.Boolean,System.Int32)">
+ <summary>
+ Simplifica un valor según el coeficiente indicado y lo devuelve segun formato
+ </summary>
+ <param name="valor">valor a dividir</param>
+ <param name="coeficiente">coeficiente por el que se dividira.</param>
+ <param name="formato"> formato para string.format.</param>
+ <returns>Valor simplificado</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.SimplificarSinTruncar(System.Object,System.Int32,System.String,System.Boolean)">
+ <summary>
+ Simplifica un valor según el coeficiente indicado y lo devuelve segun formato
+ </summary>
+ <param name="valor">valor a dividir</param>
+ <param name="coeficiente">coeficiente por el que se dividira.</param>
+ <param name="formato"> formato para string.format.</param>
+ <returns>Valor simplificado</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.SimplificarMil(System.Object,System.Boolean)">
+ <summary>
+ Simplifica un valor dividiendolo por 1000 devolviendolo con separador de miles
+ </summary>
+ <param name="valor">valor a dividir</param>       
+ <returns>Valor simplificado</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.FormatoMoneda(System.Object,System.Boolean)">
+ <summary>
+ obtiene el valor con separador de miles
+ </summary>
+ <param name="valor"></param>       
+ <returns>Valor con  separador de miles</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.SimplificarMillon(System.Object,System.Boolean)">
+ <summary>
+ Simplifica un valor dividiendolo por 1000000 devolviendolo con separador de miles
+ </summary>
+ <param name="valor">valor a dividir</param>       
+ <returns>Valor simplificado</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.SimplificarMillonUnDecimal(System.Object,System.Boolean)">
+ <summary>
+ Simplifica un valor dividiendolo por 1000000 devolviendolo con separador de miles y con 1 decimal
+ </summary>
+ <param name="valor">valor a dividir</param>       
+ <returns>Valor simplificado</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.SimplificarMilContable(System.Object,System.Boolean)">
+ <summary>
+ Simplifica un valor dividiendolo por 1000 devolviendolo con separador de miles y parentesis si es negativo
+ </summary>
+ <param name="valor">valor a dividir</param>       
+ <returns>Valor simplificado</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.FormateaNumero(System.Object,System.String,System.Boolean)">
+ <summary>
+ Formatea un numero y lo trunca.
+ </summary>
+ <param name="Valor"></param>
+ <param name="formato"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.FormateaNumeroSinTruncar(System.Object,System.String,System.Boolean)">
+ <summary>
+ Formatea un numero 
+ </summary>
+ <param name="Valor"></param>
+ <param name="formato"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.CssSegunValor(System.Object)">
+ <summary>
+ Devuelve la clase css azul o rojo segun el valor ingresado
+ </summary>
+ <param name="valor">valor a dividir</param>       
+ <returns>Valor simplificado</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.CssNegativo(System.Object)">
+ <summary>
+ si es negativo obtiene la clase CSS de texto rojo
+ </summary>
+ <param name="valor">valor a dividir</param>       
+ <returns>Valor simplificado</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.ObtValorDbl(System.Object,System.Boolean)">
+ <summary>
+ Obtiene valor double
+ </summary>
+ <param name="i"></param>
+ <param name="retornaCero">Si es verdadero,retorna un cero cuando en nothing o dbnull</param>
+ <returns>nulo si es nothing o isdbnull</returns>
+ <remarks></remarks>
+</member>
+<member name="M:SUL.Utilidades.Operaciones.EsNothingOrDbNUll(System.Object)">
+ <summary>
+ Identifica si un valor es DBNull, nothing 
+ </summary>
+ <param name="valor"></param>
+ <returns>Verdadero si es DbNUll o nothing</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

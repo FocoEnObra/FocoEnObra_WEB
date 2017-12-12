@@ -1,0 +1,102 @@
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\AccesoDatos.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\AccesoDatos.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\AccesoDatos.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\DAL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.pdb
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\AccesoDatos.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\AccesoDatos.pdb
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\AccesoDatos.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\EstructuraEntidad.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\ServiciosUtilidades.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\System.Net.Http.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\TSHAK.Components.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\EstructuraEntidad.pdb
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\EstructuraEntidad.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\ServiciosUtilidades.pdb
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\ServiciosUtilidades.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\System.Net.Http.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Debug\es\System.Net.Http.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\DAL.Resources.resources
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.pdb
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\bin\Debug\AccesoDatos.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\bin\Debug\AccesoDatos.pdb
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\bin\Debug\AccesoDatos.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\bin\Debug\EstructuraEntidad.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\bin\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\bin\Debug\EstructuraEntidad.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\obj\Debug\DAL.Resources.resources
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\AccesoDatos\obj\Debug\AccesoDatos.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\bin\Debug\AccesoDatos.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\bin\Debug\AccesoDatos.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\bin\Debug\AccesoDatos.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\bin\Debug\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\bin\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\bin\Debug\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\obj\Debug\DAL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\obj\Debug\AccesoDatos.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\obj\Debug\AccesoDatos.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\AccesoDatos\obj\Debug\AccesoDatos.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\bin\Debug\AccesoDatos.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\bin\Debug\AccesoDatos.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\bin\Debug\AccesoDatos.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\bin\Debug\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\bin\Debug\EstructuraEntidad.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\bin\Debug\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\obj\Debug\DAL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\obj\Debug\AccesoDatos.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\obj\Debug\AccesoDatos.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\bin\Debug\AccesoDatos.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\bin\Debug\EstructuraEntidad.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\bin\Debug\ServiciosUtilidades.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\bin\Debug\TSHAK.Components.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\bin\Debug\EstructuraEntidad.pdb
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\bin\Debug\EstructuraEntidad.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\bin\Debug\ServiciosUtilidades.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\obj\Debug\DAL.Resources.resources
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\obj\Debug\AccesoDatos.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\AccesoDatos\obj\Debug\AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\AccesoDatos\obj\Debug\DAL.Resources.resources
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\AccesoDatos\obj\Debug\AccesoDatos.vbproj.GenerateResource.Cache

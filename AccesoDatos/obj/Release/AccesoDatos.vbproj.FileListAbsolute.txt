@@ -1,0 +1,16 @@
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Release\AccesoDatos.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Release\AccesoDatos.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Release\AccesoDatos.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Release\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Release\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Release\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Release\EstructuraEntidad.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Release\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Release\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\bin\Release\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Release\AccesoDatos.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Release\DAL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Release\AccesoDatos.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Release\AccesoDatos.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Release\AccesoDatos.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\AccesoDatos\obj\Release\AccesoDatos.pdb

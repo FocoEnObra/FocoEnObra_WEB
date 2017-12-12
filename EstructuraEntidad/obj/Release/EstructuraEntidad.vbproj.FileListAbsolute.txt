@@ -1,0 +1,13 @@
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Release\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Release\EstructuraEntidad.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Release\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Release\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Release\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Release\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\bin\Release\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Release\EstructuraEntidad.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Release\EL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Release\EstructuraEntidad.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Release\EstructuraEntidad.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Release\EstructuraEntidad.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\EstructuraEntidad\obj\Release\EstructuraEntidad.pdb

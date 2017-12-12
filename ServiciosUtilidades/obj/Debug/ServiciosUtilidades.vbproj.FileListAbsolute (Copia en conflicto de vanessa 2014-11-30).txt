@@ -1,0 +1,52 @@
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ResolveAssemblyReference.cache
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\GenerateResource.read.1.tlog
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\GenerateResource.write.1.tlog
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\GenerateResource.read.1.tlog
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\GenerateResource.write.1.tlog
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb

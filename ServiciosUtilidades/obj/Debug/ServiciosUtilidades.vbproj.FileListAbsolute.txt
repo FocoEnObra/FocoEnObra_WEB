@@ -1,0 +1,635 @@
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ResolveAssemblyReference.cache
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\GenerateResource.read.1.tlog
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\GenerateResource.write.1.tlog
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+E:\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\GenerateResource.read.1.tlog
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\GenerateResource.write.1.tlog
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+D:\Foco En Obra\Foco\Sistema\Fuentes\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+E:\DROPBOX\Dropbox\Desarrollo\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\MJeldres\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\Users\Carlos\Documents\FocoEnObra\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\Users\Carlos\Documents\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\Users\carlos\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\Users\carlos\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\carlos\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\Users\carlos\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+C:\Users\carlos\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+C:\Users\carlos\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\Users\carlos\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\Users\carlos\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\Users\carlos\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\Users\carlos\Dropbox\Proyectos FOCO\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\Users\carlos\Dropbox\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\Users\carlos\Dropbox\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\carlos\Dropbox\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\Users\carlos\Dropbox\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+C:\Users\carlos\Dropbox\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+C:\Users\carlos\Dropbox\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\Users\carlos\Dropbox\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\Users\carlos\Dropbox\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\Users\carlos\Dropbox\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\Users\carlos\Dropbox\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+D:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+D:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+D:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+D:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+D:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+D:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+D:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+D:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+D:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+D:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+D:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+D:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+D:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+D:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+D:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+D:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+D:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+D:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+D:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+D:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Data.v14.2.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Office.v14.2.Core.xml
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Web.v14.2.xml
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Data.v14.2.xml
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\DevExpress.Web.v14.2.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\DevExpress.Web.v14.2.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\DevExpress.Web.v14.2.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\DevExpress.Web.v14.2.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Office.v14.2.Core.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+C:\Users\usuario\Desktop\FocoEnObraV1\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Web.v14.2.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Office.v14.2.Core.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Web.v14.2.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Data.v14.2.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Office.v14.2.Core.xml
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Web.v14.2.xml
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Data.v14.2.xml
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\DevExpress.Web.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\DevExpress.Web.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\DevExpress.Web.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\DevExpress.Web.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFocoOficial\FocoEnObraV1\ServiciosUtilidades\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV1\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Office.v14.2.Core.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v14.2.Core.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Web.v14.2.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Data.v14.2.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v14.2.Core.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Office.v14.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v14.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Web.v14.2.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Data.v14.2.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v14.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Office.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Office.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Office.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Office.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.RichEdit.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.RichEdit.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.RichEdit.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.RichEdit.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Web.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Web.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Web.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Web.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Data.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Data.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Data.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Data.v14.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Printing.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Printing.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Printing.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Printing.v14.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Web.v15.2.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Web.v15.2.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Web.v15.2.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Web.v15.2.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Web.v15.2.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Web.v15.2.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+D:\FocoEnOBRA\FocoEnObraV2\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Office.v15.2.Core.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Web.v15.2.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\Descargas Slack\FocoEnObraV2\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.Office.v15.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.Web.v15.2.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\de\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\es\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ja\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ru\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObraV2 MMoreno\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Office.v15.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Web.v15.2.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.Web.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+F:\MJeldres2\ProyectoWebFoco\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Web.v15.2.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.Web.v15.2.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.Web.v15.2.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.Web.v15.2.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.Web.v15.2.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\Users\usuario\Documents\FOCO_EN_OBRA\FocoEnObraV16\FocoEnObra Version Final\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.pdb
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.xml
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Web.v15.2.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\TSHAK.Components.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Web.v15.2.xml
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\de\DevExpress.Web.v15.2.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\es\DevExpress.Web.v15.2.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ja\DevExpress.Web.v15.2.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ru\DevExpress.Web.v15.2.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\obj\Debug\SUL.Resources.resources
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.vbproj.GenerateResource.Cache
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.dll
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.xml
+C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\ServiciosUtilidades\obj\Debug\ServiciosUtilidades.pdb
