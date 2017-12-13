@@ -3,7 +3,7 @@ Imports System.Net
 
 Public Class Consultas
     ' prueba git 
-
+    'ffffffff
     Private adap As SqlDataAdapter
     Private comand As SqlCommand
 

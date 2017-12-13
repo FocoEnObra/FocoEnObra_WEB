@@ -18,3 +18,23 @@ C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\wsLogin\bin\Estruct
 C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\wsLogin\bin\EstructuraEntidad.xml
 C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\wsLogin\bin\ServiciosUtilidades.pdb
 C:\Users\Mauro\Documents\Visual Studio 2012\Projects\wsLogin\wsLogin\bin\ServiciosUtilidades.xml
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\wsLogin.dll.config
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\wsLogin.dll
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\wsLogin.pdb
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\wsLogin.xml
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\AccesoDatos.dll
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\EstructuraEntidad.dll
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\ServiciosUtilidades.dll
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\TSHAK.Components.dll
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\AccesoDatos.pdb
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\AccesoDatos.xml
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\EstructuraEntidad.pdb
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\EstructuraEntidad.xml
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\ServiciosUtilidades.pdb
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\bin\ServiciosUtilidades.xml
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\obj\Debug\wsLogin.vbprojResolveAssemblyReference.cache
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\obj\Debug\wsLogin.Resources.resources
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\obj\Debug\wsLogin.vbproj.GenerateResource.Cache
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\obj\Debug\wsLogin.dll
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\obj\Debug\wsLogin.xml
+C:\Users\Mauro\Documents\GitHub\FocoEnObra_WEB\wsLogin\obj\Debug\wsLogin.pdb
