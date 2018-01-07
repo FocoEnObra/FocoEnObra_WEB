@@ -67,6 +67,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calidad\Actividad.vb" />
     <Compile Include="Empresa\Dias.vb" />
     <Compile Include="Empresa\Obra.vb" />
     <Compile Include="Empresa\Areas.vb" />

@@ -3,9 +3,7 @@
 Namespace Seguridad
     Public Class UsuarioSistema
         Inherits EL.Seguridad.Usuario
-
         Shared Property StrCon As String
-
         Public Property LastPage As String
 
         Protected Overrides Sub Finalize()

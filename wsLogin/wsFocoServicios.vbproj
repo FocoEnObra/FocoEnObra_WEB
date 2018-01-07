@@ -44,14 +44,6 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AccesoDatos, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\AccesoDatos\bin\Release\AccesoDatos.dll</HintPath>
-    </Reference>
-    <Reference Include="EstructuraEntidad, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\EstructuraEntidad\bin\Debug\EstructuraEntidad.dll</HintPath>
-    </Reference>
     <Reference Include="ServiciosUtilidades, Version=1.0.6365.29960, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\ServiciosUtilidades\bin\Debug\ServiciosUtilidades.dll</HintPath>
@@ -155,6 +147,12 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.vbproj">
+      <Project>{0b2a01d9-a546-4788-80c0-1bd4a12bd4ad}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
