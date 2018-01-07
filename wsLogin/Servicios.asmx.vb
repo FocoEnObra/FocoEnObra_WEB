@@ -19,6 +19,25 @@ Public Class Service1
         Dim vUser As UsuarioSistema = Nothing
 
         Try
+
+            vUser = Usuario.Ingresar(vUsuario, vPassword, vStrConexion, ip, host)
+        Catch sqlEx As SqlException
+            Alerta("error sql.")
+            Exit Function
+        Catch ex As Exception
+            Alerta("error ws")
+            Exit Function
+        End Try
+
+        Return vUser
+
+    End Function
+
+    <WebMethod()>
+    Public Function listaProyectos(vUsuario As String, vPassword As String, vStrConexion As String, ip As String, host As String) As UsuarioSistema
+        Dim vUser As UsuarioSistema = Nothing
+
+        Try
             vUser = Usuario.Ingresar(vUsuario, vPassword, vStrConexion, ip, host)
         Catch sqlEx As SqlException
             Alerta("error sql.")
